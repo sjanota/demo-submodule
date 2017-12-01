@@ -1,3 +1,3 @@
 # demo-submodule
 
-Dokumentacja-ng
+Dokumentacja-ng-v2
