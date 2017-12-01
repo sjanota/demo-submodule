@@ -1,0 +1,3 @@
+[submodule "demo-project-2"]
+	path = demo-project-2
+	url = https://github.com/sjanota/demo-project-2
